@@ -3,8 +3,8 @@
 #Some important chagnes made by Bolong
 
 1. Compatible with Julia 1.0.3
-2. Some chiese notes are made
-3. More test sentence
+2. Some chinese notes are made
+3. More test sentences
 
 
 
